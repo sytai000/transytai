@@ -1,2 +1,0 @@
-# transytai
-# hello world
